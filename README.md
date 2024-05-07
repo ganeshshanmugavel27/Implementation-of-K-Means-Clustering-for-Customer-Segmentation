@@ -16,13 +16,12 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Program:
 
-
+```python
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Ganesh S
-RegisterNumber:  212222040042
+Developed by: SELVAMUTHU KUMARAN V
+RegisterNumber:  212222040151
 */
-```python
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
@@ -72,16 +71,12 @@ plt.axis('equal') # Ensure aspect ratio is equal
 plt.show()
 ```
 
-## Output
-![image](https://github.com/ganeshshanmugavel27/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/122046208/8fd952fb-603d-4a18-920e-e506f1b22b05)
-![image](https://github.com/ganeshshanmugavel27/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/122046208/5bff9f20-e0ae-452e-b061-3e2434600ab2)
-![image](https://github.com/ganeshshanmugavel27/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/122046208/c34b0fc7-56d3-4156-9158-e215d3917236)
-![image](https://github.com/ganeshshanmugavel27/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/122046208/d4a4cef8-8394-47ac-bd6d-ff844226f21f)
-![image](https://github.com/ganeshshanmugavel27/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/122046208/5cd64821-c504-4d62-90c5-e5fc011c2e80)
+## Output:
 
-
-
-
+![Screenshot 2024-04-16 162415](https://github.com/selva258963/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121961701/a622f512-ccfe-49f7-b3c3-0a6b3b10cb36)
+![Screenshot 2024-04-16 162440](https://github.com/selva258963/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121961701/d3a36707-a0cb-484f-b33f-c0ec14c89672)
+![Screenshot 2024-04-16 162534](https://github.com/selva258963/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121961701/a140a91b-db0f-44bf-a320-05971826a733)
+![Screenshot 2024-04-16 162342](https://github.com/selva258963/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/121961701/f76e32c3-b0fc-4b2f-ae20-28a34f92aada)
 
 
 ## Result:
